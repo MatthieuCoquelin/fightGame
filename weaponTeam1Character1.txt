@@ -1,0 +1,7 @@
+Epee
+Porte-cendre
+0.1
+7
+200
+17
+-90

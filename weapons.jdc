@@ -1,0 +1,85 @@
+Weapon
+	Type			Baton
+	Nom				BaguetteDeSureau
+	HP				-30
+	Cout			6
+	Intelligence	8
+	Critique		0.12
+	Degat			7
+	Attack			0
+EndWeapon
+
+Weapon
+	Type			Epee
+	Nom				Excalibur
+	Critique		0.09
+	Attack			3
+	Durabilite		30
+	Degat			15
+	HP				0
+EndWeapon
+
+Weapon
+	Type			Arc
+	Nom				Gandiva
+	Critique		0.17
+	Attack			5
+	Degat			12
+	Fleche			20
+	HP				0
+EndWeapon
+
+Weapon
+	Type			Dague
+	Nom				Perce-bourse
+	Degat			12
+	HP				-10
+	Defense			4
+	Durabilite		220
+	Critique		0.25
+	Attack			0
+	Agilite			0
+EndWeapon
+
+Weapon
+	Type			Epee
+	Nom				Porte-cendre
+	Critique		0.1
+	Attack			7
+	Durabilite		200
+	Degat			17
+	HP				-90
+EndWeapon
+
+Weapon
+	Type			Arc
+	Nom				Thori'dal
+	Critique		0.12
+	Attack			0
+	Degat			10
+	Fleche			22	
+	HP				30
+EndWeapon
+
+Weapon
+	Type			Baton
+	Nom				Atiesh
+	HP				0
+	Cout			7
+	Intelligence	5
+	Critique		0.12
+	Degat			10
+	Attack			0
+EndWeapon
+
+Weapon
+	Type			Dague
+	Nom				Sorcelame
+	Degat			12
+	HP				0
+	Defence			0
+	Durabilite		180
+	Critique		0.24
+	Attack			-2
+	Agilite			5
+EndWeapon
